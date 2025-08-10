@@ -6,7 +6,6 @@ import {
   Grid,
   Card,
   CardMedia,
-  CardContent,
 } from '@mui/material';
 import { useTranslation } from 'react-i18next';
 

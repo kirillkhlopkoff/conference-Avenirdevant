@@ -13,8 +13,6 @@ import {
   Menu,
   MenuItem,
   Link,
-  useTheme,
-  useMediaQuery,
 } from '@mui/material';
 import {
   Menu as MenuIcon,
@@ -29,8 +27,6 @@ const Header: React.FC = () => {
   const { t, i18n } = useTranslation();
   const navigate = useNavigate();
   const location = useLocation();
-  const theme = useTheme();
-  const isMobile = useMediaQuery(theme.breakpoints.down('md'));
 
   const [drawerOpen, setDrawerOpen] = useState(false);
   const [languageAnchor, setLanguageAnchor] = useState<null | HTMLElement>(null);

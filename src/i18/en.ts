@@ -13,7 +13,7 @@ export default {
   hero: {
     title: 'AVENIRDEVANT',
     subtitle: 'Conference 2025',
-    location: 'KVC PARKOVY | OCTOBER 12',
+    location: 'OCTOBER 12',
     description: 'AVENIRDEVANT 2025 - the main concluding event of the year in the world of cryptocurrencies and Web3. The conference will unite top industry representatives to summarize the year, recognize leaders, and set future trends.',
     buyTickets: 'REGISTER',
   },

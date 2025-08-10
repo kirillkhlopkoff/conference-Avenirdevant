@@ -13,7 +13,7 @@ export default {
   hero: {
     title: 'AVENIRDEVANT',
     subtitle: 'Conference 2025',
-    location: 'KVC PARKOVY | 12 OCTOBRE',
+    location: '12 OCTOBRE',
     description: 'AVENIRDEVANT Crypto Conference 2025 - l\'événement principal de clôture de l\'année dans le monde des cryptomonnaies et Web3. La conférence réunira les meilleurs représentants de l\'industrie pour résumer l\'année, reconnaître les leaders et établir les tendances futures.',
     buyTickets: 'S\'INSCRIRE',
   },

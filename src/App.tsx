@@ -120,6 +120,7 @@ function App() {
         <Layout>
           <Routes>
             <Route path="/" element={<HomePage />} />
+            <Route path="/fr" element={<HomePage />} />
             <Route path="/join" element={<JoinPage />} />
             <Route path="/contacts" element={<ContactsPage />} />
             <Route path="/rules" element={<RulesPage />} />

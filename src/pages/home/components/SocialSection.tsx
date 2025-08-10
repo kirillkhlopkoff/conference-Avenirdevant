@@ -9,7 +9,6 @@ import {
 import {
   Email as EmailIcon,
   YouTube as YouTubeIcon,
-  Facebook as FacebookIcon,
   Instagram as InstagramIcon,
   Telegram as TelegramIcon,
 } from '@mui/icons-material';
